@@ -1,4 +1,4 @@
-# Breast Cancer Prediction Project
+# Real Estate House Price Prediction Project
 
 In this data science project, we aim to predict breast cancer outcomes using machine learning techniques. By analyzing relevant features (such as tumor size, cell shape, and malignancy), we'll build a predictive model that can assist in early detection and improve patient outcomes.
 
